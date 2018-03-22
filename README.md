@@ -1,4 +1,4 @@
-![ES6 Image Gallery](es6-image-gallery.png)
+![ES6 Image Gallery](es6-image-gallery-view.png)
 
 ## ES6 Image Gallery
 
